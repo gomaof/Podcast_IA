@@ -5,7 +5,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
-<a href="" title="View MP3 now"> 🎙️Clique aqui para acessar o audio gerado.</a>
+<a href="https://github.com/gomaof/Podcast_IA/tree/main/podcast_MP3" title="View MP3 now"> 🎙️Clique aqui para acessar o audio gerado.</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
